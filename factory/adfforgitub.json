@@ -1,0 +1,9 @@
+{
+	"name": "adfforgitub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc1de769-f561-4b9a-a23a-9826a57b9890",
+		"tenantId": "59a19efc-2476-464b-bbbc-10c87910a93d"
+	}
+}
